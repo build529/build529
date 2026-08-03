@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Jose Aldonate. I'm passionate about artificial intelligence development and practical applications using smart tools. What are you working on these days? 👋
 
 <!--
 **build529/build529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
